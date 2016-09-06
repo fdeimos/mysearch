@@ -1,0 +1,4 @@
+name = My Search
+description = Custom search via specific page.
+package = Custom
+core = 7.x
